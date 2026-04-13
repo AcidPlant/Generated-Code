@@ -1,4 +1,4 @@
-github.com/AcidPlant/Generated-Code
+module github.com/AcidPlant/Generated-Code
 
 go 1.22
 
