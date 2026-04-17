@@ -137,7 +137,7 @@ const file_order_v1_order_proto_rawDesc = "" +
 	"\x06status\x18\x02 \x01(\tR\x06status\x12\x1c\n" +
 	"\ttimestamp\x18\x03 \x01(\tR\ttimestamp2`\n" +
 	"\fOrderService\x12P\n" +
-	"\x17SubscribeToOrderUpdates\x12\x16.order.v1.OrderRequest\x1a\x1b.order.v1.OrderStatusUpdate0\x01B6Z4github.com/AcidPlant/Generated-Code/order/v1;orderv1b\x06proto3"
+	"\x17SubscribeToOrderUpdates\x12\x16.order.v1.OrderRequest\x1a\x1b.order.v1.OrderStatusUpdate0\x01B6Z4github.com/AcidPlant/generated-code/order/v1;orderv1b\x06proto3"
 
 var (
 	file_order_v1_order_proto_rawDescOnce sync.Once
